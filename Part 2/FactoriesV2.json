@@ -1,0 +1,74 @@
+{
+    "uniswapV2": {
+        "factory": "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f"
+    },
+    "sushiswapV2": {
+        "factory": "0xC0AEe478e3658e2610c5F7A4A2E1777cE9e4f2Ac"
+    },
+    "shibaswapV2": {
+        "factory": "0x115934131916C8b277DD010Ee02de363c09d037c"
+    },
+    "croswapV2": {
+        "factory": "0x9DEB29c9a4c7A88a3C0257393b7f3335338D9A9D"
+    },
+    "convergenceV2": {
+        "factory": "0x4eef5746ED22A2fD368629C1852365bf5dcb79f1"
+    },
+    "bitberryV2": {
+        "factory": "0x5D8d3bbE66076e844C82B989F8430Fa92Cf67DBA"
+    },
+    "dxswapV2": {
+        "factory": "0xd34971BaB6E5E356fd250715F5dE0492BB070452"
+    },
+    "equalizerV2": {
+        "factory": "0xF14421F0BCf9401d8930872C2d44d8e67e40529a"
+    },
+    "pancakeswapV2": {
+        "factory": "0x1097053Fd2ea711dad45caCcc45EfF7548fCB362"
+    },
+    "fraxswapV2": {
+        "factory": "0x43eC799eAdd63848443E2347C49f5f52e8Fe0F6f"
+    },
+    "apeswapV2": {
+        "factory": "0xBAe5dc9B19004883d0377419FeF3c2C8832d7d7B"
+    },
+    "orionprotocolV2": {
+        "factory": "0x5FA0060FcfEa35B31F7A5f6025F0fF399b98Edf1"
+    },
+    "radioshackswapV2": {
+        "factory": "0x91fAe1bc94A9793708fbc66aDcb59087C46dEe10"
+    },
+    "empireswapV2": {
+        "factory": "0xd674b01E778CF43D3E6544985F893355F46A74A5"
+    },
+    "plasmaswapV2": {
+        "factory": "0xd87Ad19db2c4cCbf897106dE034D52e3DD90ea60"
+    },
+    "bambooswapV2": {
+        "factory": "0x3823Ac41b77e51bf0E6536CE465479cBdedcaEa9"
+    },
+    "linkswapV2": {
+        "factory": "0x696708Db871B77355d6C2bE7290B27CF0Bb9B24b"
+    },
+    "saitaswapV2": {
+        "factory": "0x19E5ebC005688466d11015e646Fa182621c1881e"
+    },
+    "swipeswapV2": {
+        "factory": "0x8a93B6865C4492fF17252219B87eA6920848EdC0"
+    },
+    "kingswapV2": {
+        "factory": "0xcDc7c1d7542128d96fb944AF966EA1be5CE31fca"
+    },
+    "capitalV2": {
+        "factory": "0x03407772F5EBFB9B10Df007A2DD6FFf4EdE47B53"
+    },
+    "p00lsV2": {
+        "factory": "0x93F9a2765245fBeF39bC1aE79aCbe0222b524080"
+    },
+    "luaSwapV2": {
+        "factory": "0x0388C1E0f210AbAe597B7DE712B9510C6C36C857"
+    },
+    "wallstreetbetsV2": {
+        "factory": "0x5326a41E17037cdab5737eF372b7C04DDEc1eCe6"
+    }
+}
