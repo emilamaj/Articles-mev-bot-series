@@ -289,8 +289,9 @@ print(f"Found {len(opps)} opportunities.")
 
 # %%
 # Use the hard-coded gas cost of 107k gas per opportunity
+gp = w3.eth.gas_price
 for opp in opps:
-    opp["net_profit"] = opp["profit"] - 107000 * w3.eth.gas_price / 1e18
+    opp["net_profit"] = opp["profit"] - 107000 * gp / 1e18
 
 # Sort by estimated net profit
 opps.sort(key=lambda x: x["net_profit"], reverse=True)
